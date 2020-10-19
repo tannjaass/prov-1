@@ -1,4 +1,4 @@
-function makeRandomArray () {
+function makeRandomArray() {
 
 }
 // jag förstod ej riktigt menmen
